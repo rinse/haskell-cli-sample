@@ -1,0 +1,4 @@
+.stack-work/
+sample.cabal
+*~
+stack.yaml.lock
